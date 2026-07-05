@@ -1,9 +1,5 @@
 # Overview
 
-This software will assist a student having questions on material learned in Anatomy through clarification and spaced repetition in case
-memory retention is necessary.
+This software will assist a local non-profit where I am a research analyst. I will use this tool to accelerate my assistance and hopefully also hasten the help to children in need.
 
-# Background
-
-As an Anatomy student, I find it incredibly difficult to remember all the information at once, and I would find myself overwhelmed from the 
-intense workload. As a result, I developed this tool to help me gain clarity and hopefully others.
+# 
